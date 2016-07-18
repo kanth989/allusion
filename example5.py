@@ -20,5 +20,3 @@ k.hyderabad = "winter"
 print dir(k)
 k.hyderabad.winter.append("apple")
 # k.hyd = {}
-
-# Hello world whats up!!
